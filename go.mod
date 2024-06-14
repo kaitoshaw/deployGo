@@ -1,3 +1,3 @@
 module github.com/kaitoshaw/chatbotTrial
 
-go 1.21.11
+go 1.16
