@@ -1,3 +1,3 @@
 module github.com/kaitoshaw/chatbotTrial
 
-go 1.22.2
+go1.22.4.linux-amd64.tar.gz
